@@ -1,0 +1,22 @@
+{
+  "name": "zig-async",
+  "description": "Zig async I/O programming expertise for version 0.16+. Covers io_uring integration, async/await patterns, concurrent task management, cancellation, and the new I/O model replacing the removed async/suspend/resume.",
+  "version": "1.0.0",
+  "author": {
+    "name": "whit3rabbit",
+    "url": "https://github.com/whit3rabbit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whit3rabbit/claude-zig-skill"
+  },
+  "keywords": [
+    "zig",
+    "async",
+    "io_uring",
+    "concurrency",
+    "async-io",
+    "0.16"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "whit3rabbit-claude-zig-skill",
+  "description": "Zig programming skills for Claude Code - comprehensive language support and async I/O patterns",
+  "owner": {
+    "name": "whit3rabbit",
+    "url": "https://github.com/whit3rabbit"
+  },
+  "plugins": [
+    {
+      "name": "zig-programming",
+      "source": "./zig-programming",
+      "description": "Comprehensive Zig programming expertise with 223 recipes, multi-version docs (0.2.0-0.15.2+), templates, and examples"
+    },
+    {
+      "name": "zig-async",
+      "source": "./zig-async-skill",
+      "description": "Zig async I/O programming for version 0.16+ with io_uring integration and concurrent task patterns"
+    }
+  ]
+}
