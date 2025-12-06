@@ -6,10 +6,7 @@
     "name": "whit3rabbit",
     "url": "https://github.com/whit3rabbit"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/whit3rabbit/claude-zig-skill"
-  },
+  "repository": "https://github.com/whit3rabbit/claude-zig-skill",
   "keywords": [
     "zig",
     "programming",
